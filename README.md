@@ -1,8 +1,9 @@
 Jesus Llamas Dominguez
 /
 Jorge Alberto Sanchez Lopez
-/
-/
+
+
+
 Objetivos Generales
 Diseñar un laberinto  que integre diversos elementos y reglas especiales, desafiando las habilidades de resolución de problemas.
 
