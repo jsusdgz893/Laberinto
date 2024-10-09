@@ -1,12 +1,14 @@
 Jesus Llamas Dominguez
 /
 Jorge Alberto Sanchez Lopez
+/
+/
 Objetivos Generales
-Diseñar un laberinto innovador que integre diversos elementos y reglas especiales, desafiando las habilidades de resolución de problemas.
+Diseñar un laberinto  que integre diversos elementos y reglas especiales, desafiando las habilidades de resolución de problemas.
 
 Implementar un algoritmo de programación dinámica que permita encontrar rutas eficientes desde la entrada hasta la salida del laberinto, considerando condiciones especiales.
 
-Desarrollar una interfaz gráfica que permita visualizar el laberinto y la solución de manera intuitiva y atractiva.
+Desarrollar una GUI que permita visualizar el laberinto y la solución de manera intuitiva y atractiva.
 
 Evaluar el rendimiento del algoritmo en distintos laberintos, analizando la complejidad temporal y espacial en función de las reglas introducidas.
 
