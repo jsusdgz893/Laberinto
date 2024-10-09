@@ -16,8 +16,11 @@ Evaluar el rendimiento del algoritmo en distintos laberintos, analizando la comp
 Documentar el proceso de desarrollo del proyecto, incluyendo el diseño, implementación, pruebas y reflexiones sobre los resultados obtenidos.
 
 Objetivos Específicos por Integrante
+
+
 Integrante 1
 Diseñar y codificar el laberinto:
+
 
 Crear la matriz del laberinto, definiendo las celdas, caminos y paredes.
 Implementar las celdas especiales (teletransportadoras, celdas con acertijos).
@@ -28,6 +31,8 @@ Implementar controles para interactuar con el laberinto (iniciar la resolución,
 Realizar pruebas unitarias sobre las funciones del laberinto y la interfaz, asegurando que todos los elementos se comporten como se espera.
 
 Integrante 2
+
+
 Implementar el algoritmo de programación dinámica:
 
 Desarrollar la lógica para resolver el laberinto mediante exploración recursiva y programación dinámica.
