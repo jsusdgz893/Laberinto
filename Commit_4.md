@@ -1,0 +1,4 @@
+##Cuarto Commit: Corrección de Detalles
+
+
+En el cuarto commit del proyecto, se realizaron diversas correcciones y ajustes a la lógica previamente refactorizada. Se abordaron errores menores en el comportamiento de la clase del laberinto, optimizando la gestión de los movimientos permitidos y mejorando la estructura de los métodos para asegurar un flujo correcto de ejecución. Adicionalmente, se ajustaron detalles en la interacción con la GUI, mejorando la compatibilidad y el rendimiento en la integración con la interfaz gráfica. Estos cambios garantizaron que la lógica funcione de manera fluida y sin errores, proporcionando una base más robusta para continuar el desarrollo del proyecto.
